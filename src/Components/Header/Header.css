@@ -1,0 +1,12 @@
+.home-nav-bar a{
+    text-decoration: none;
+    color: darkslategrey;
+    margin-right: 20px;
+    text-shadow: 1px 3px 5px black;
+    
+}
+
+.home-nav-bar a:hover{
+    color: crimson;
+    cursor: pointer;
+}

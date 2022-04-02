@@ -1,0 +1,9 @@
+.t-shirts img{
+    height: 250px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.t-shirts{
+    margin: 30px 10px 10px 20px;
+    height: 440px;
+}
